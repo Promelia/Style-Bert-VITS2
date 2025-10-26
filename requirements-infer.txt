@@ -31,3 +31,5 @@ torch==2.6.0
 torchaudio==2.6.0
 transformers
 umap-learn
+hf_xet
+soxr
